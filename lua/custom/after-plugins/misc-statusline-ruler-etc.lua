@@ -1,0 +1,2 @@
+-- TODO: can this be used at same time as statusline?
+-- vim.opt.ruler = true
